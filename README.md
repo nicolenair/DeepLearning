@@ -1,6 +1,6 @@
 # DeepLearning
 
-In this repository, I keep deep learning projects which I have worked on.
+In this repository, I keep deep learning projects I have worked on during a Deep Learning tutorial at Minerva Schools at KGI.
 
 Current set of projects:
 
